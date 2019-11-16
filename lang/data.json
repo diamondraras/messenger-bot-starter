@@ -1,0 +1,17 @@
+{
+    "hello": {
+        "mg": "Salama !",
+        "fr": "Bonjour !",
+        "en": "Hello !"
+    },
+    "exit": {
+        "mg": "Exit",
+        "fr": "Sortir",
+        "en": "Hiala"
+    },
+    "lang_changed": {
+        "mg": "Novana ny fiteny",
+        "en": "The language has been changed",
+        "fr": "La langue a \u00e9t\u00e9 chang\u00e9e"
+    }
+}
